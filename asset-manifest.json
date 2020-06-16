@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/starlord/static/css/main.cba53525.chunk.css",
+    "main.js": "/starlord/static/js/main.50a3dfff.chunk.js",
+    "main.js.map": "/starlord/static/js/main.50a3dfff.chunk.js.map",
+    "runtime-main.js": "/starlord/static/js/runtime-main.9e3f09d6.js",
+    "runtime-main.js.map": "/starlord/static/js/runtime-main.9e3f09d6.js.map",
+    "static/css/2.e4346227.chunk.css": "/starlord/static/css/2.e4346227.chunk.css",
+    "static/js/2.31abb22d.chunk.js": "/starlord/static/js/2.31abb22d.chunk.js",
+    "static/js/2.31abb22d.chunk.js.map": "/starlord/static/js/2.31abb22d.chunk.js.map",
+    "index.html": "/starlord/index.html",
+    "precache-manifest.9c7cb644dcf7ce19532dd332a49b4283.js": "/starlord/precache-manifest.9c7cb644dcf7ce19532dd332a49b4283.js",
+    "service-worker.js": "/starlord/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/starlord/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.cba53525.chunk.css.map": "/starlord/static/css/main.cba53525.chunk.css.map",
+    "static/js/2.31abb22d.chunk.js.LICENSE.txt": "/starlord/static/js/2.31abb22d.chunk.js.LICENSE.txt",
+    "static/media/students.jpg": "/starlord/static/media/students.c1079f3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e3f09d6.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.31abb22d.chunk.js",
+    "static/css/main.cba53525.chunk.css",
+    "static/js/main.50a3dfff.chunk.js"
+  ]
+}
